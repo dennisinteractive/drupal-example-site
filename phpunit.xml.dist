@@ -35,7 +35,7 @@
     </testsuite>
   </testsuites>
   <listeners>
-    <listener class="\Drupal\Tests\Listeners\DrupalListener">
+    <listener class="\Drupal\Tests\Listeners\DrupalStandardsListener">
     </listener>
   </listeners>
   <!-- Filter for coverage reports. -->
